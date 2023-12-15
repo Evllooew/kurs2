@@ -1,4 +1,4 @@
-package kurs2.kurs2.Service;
+package kurs2.kurs2.service;
 
 
 import kurs2.kurs2.Question;

@@ -3,7 +3,7 @@ package kurs2.kurs2;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import kurs2.kurs2.Controller.JavaQuestionController;
+import kurs2.kurs2.controller.JavaQuestionController;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;

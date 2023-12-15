@@ -1,4 +1,4 @@
-package kurs2.kurs2.Controller;
+package kurs2.kurs2.controller;
 
 import kurs2.kurs2.Question;
 import kurs2.kurs2.QuestionService;

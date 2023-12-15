@@ -1,6 +1,6 @@
 package kurs2.kurs2;
 
-import kurs2.kurs2.Controller.ExamController;
+import kurs2.kurs2.controller.ExamController;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;
